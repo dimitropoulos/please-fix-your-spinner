@@ -1,6 +1,6 @@
 # Please, Fix Your Spinner.
 
-[pleasefixyourspinner.com](pleasefixyourspinner.com)
+[pleasefixyourspinner.com](https://pleasefixyourspinner.com)
 
 Segmented spinners such as the "8 dot spinner" are intended to be animated in a pulsing fashion rather than rotated with a fluid, linear animation. Show your users that you pay attention to detail by making this simple change.
 

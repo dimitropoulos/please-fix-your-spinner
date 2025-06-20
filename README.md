@@ -6,4 +6,4 @@ Segmented spinners such as the "8 dot spinner" are intended to be animated in a 
 
 ![please-fix-your-spinner](./please-fix-your-spinner.gif)
 
-> **Using FontAwesome?** Great! All you have to do is change the class on your spinner from `fa-spin` to `fa-pulse`!
+> **Using FontAwesome?** Great! All you have to do is change the class on your spinner from `fa-spin` or deprecated `fa-pulse` to `fa-spin-pulse`!

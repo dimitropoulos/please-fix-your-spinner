@@ -39,7 +39,11 @@ export const ProTip = () => (
   <ProTipIcon><InfoIcon fill="#666" /></ProTipIcon>
   <ProTipContent>
     <ProTipTitle>Using FontAwesome?</ProTipTitle>
-    <ProTipDescription>Great! All you have to do is change the class on your spinner from <Code>fa-spin</Code> to <Code>fa-pulse</Code>!</ProTipDescription>
+    <ProTipDescription>
+      Great! All you have to do is change the class on your spinner from
+      <Code>fa-spin</Code> or deprecated <Code>fa-pulse</Code> to
+      <Code>fa-spin-pulse</Code>!
+    </ProTipDescription>
   </ProTipContent>
 </ProTipWrapper>
 );
